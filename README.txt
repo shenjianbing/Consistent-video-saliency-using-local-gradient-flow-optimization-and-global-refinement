@@ -12,6 +12,8 @@ you should cite above paper in any resulting publication.
 Note:
 ===========================================================================
 This code uses some publicly available functions.
+Our new collected dataset (DataViSal.rar) can be downloaded 
+from the website (https://github.com/shenjianbing/videosalData)
 ===========================================================================
 Contact Information
 ===========================================================================
